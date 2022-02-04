@@ -22,7 +22,7 @@ This is React NEWS API based Website , In this website you can see top headlines
 
 # Infinite scroll with spinner on bottom while loading
 
-![](Screenshot%20(519).png.png)
+![](Screenshot%20(519).png)
 
 /*************************************************************************************************************************/
 # Sticky Navbar
