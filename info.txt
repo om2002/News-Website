@@ -1,0 +1,51 @@
+/**************OP NEWS ***************************/
+this website is created in react 
+
+
+/****************************/
+Class based components 
+
+
+/*******************Understanding state in class based components*********/
+News.js
+
+/******************key in App*********/
+it is important to pass key as router think as ,
+it same so it can't mount again so we differentiate each news by passing differen key
+
+/************React Componenet Lifecycyle**************/
+the series of events that happen from the mounting of a react to its unmounting
+
+Mounting - Berth of Your Componenet
+Update - Growth of your  Componenet
+unmount - Death of your component
+
+
+/******Methods in React Componenet Lifecycyle***********************/
+render - (change into , ram render english to hindi)
+the render() method is used to render HTML of the componenets in react . this
+method is required for a class based components to render the DOM . it runs
+during the mounting and updating of your component.  render() method should
+be pure that is you cannot modify state inside it.
+
+
+The componentDidMount() method runs after the component output has been rendered to the DOM
+
+The componentDidUpdate() method is invoked as soon as the updating happens . the
+most common use case for the  componentDidUpdate() method is updating the DOM in 
+responce to prop or state changes
+
+the componentWillUnmount() Lifecycyle method is called just before the component is unmounted
+and destroyed. Usually used to perform cleanups
+
+
+/********Used this site**************/
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+/********* for .env.local(hiding api key and passing as props)*******************/
+link:
+https://www.youtube.com/watch?v=fg_Rc5cBAK8&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=37&ab_channel=CodeWithHarry
+
+
+
+
