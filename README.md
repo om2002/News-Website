@@ -1,6 +1,6 @@
 # Description
 
-This is React NEWS API based Website , In this website you can see top headlines of many categories like general , sports , technology , science , entertainment and any more. In this website you can see source , author , date and full news of news.
+This is React NEWS API based Website , In this website you can see top headlines of many categories like general , sports , technology , science , entertainment and any more. In this website you can see source , author , date and full news after clicking Read More.
 
 
 ![](Screenshot%20(513).png)
@@ -10,7 +10,7 @@ This is React NEWS API based Website , In this website you can see top headlines
 /*************************************************************************************************************************/
 # Top RED Loading Bar 
 
-![](Screenshot%20(489).png)
+![](Screenshot%20(516).png)
 
 
 /*************************************************************************************************************************/
